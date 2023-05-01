@@ -2,6 +2,8 @@
 
 ### This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
 
+## The main aim of the project covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch success (successful first stage landing) with classification algorithms
+
 ![image](https://user-images.githubusercontent.com/121239062/232280643-666c4b63-44f2-4b7d-b9e7-82989dd88b1b.png)
 
 ## SpaceX Falcon 9 First Stage Landing Prediction
