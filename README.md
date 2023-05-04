@@ -1,6 +1,6 @@
 # Applied Data science Capstone Project:
 
-### This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
+### This project is part of [IBM Data Science certificate] (https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ## The main aim of the project covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch success (successful first stage landing) with classification algorithms
 
